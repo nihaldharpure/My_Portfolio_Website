@@ -72,9 +72,5 @@ Save and wait for deployment
 👤 Author
 Nihal Dharpure
 
-LinkedIn: Nihal Dharpure
-GitHub: @nihaldharpure
-Email: nihaldharpure@gmail.com
-
 📞 Support
 For support, email nihaldharpure@gmail.com or open an issue in the repository.
